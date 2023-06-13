@@ -4,5 +4,6 @@ object first
 {
   def main(args: Array[String]) {
     println("Hello Scala");
+    println("Hello World !!")
   }
 }
